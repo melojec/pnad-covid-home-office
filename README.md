@@ -7,7 +7,7 @@ Alguns gráficos mostrando o comportamento da modalidade de emprego "Home Office
 4. Por Tipo de Emprego.
 
 O objetivo deste projeto é o de analisar todo o comportamento do emprego Home Office para os meses da pandemia, voltado para a apresentação da variação e das tendências
-do mercado de trabalho no município. Para a realização dos gráficos, é utilizado [os microdados da PNAD COVID](https://www.ibge.gov.br/estatisticas/investigacoes-experimentais/estatisticas-experimentais/27946-divulgacao-semanal-pnadcovid1?t=microdados&utm_source=covid19&utm_medium=hotsite&utm_campaign=covid_19), disponibilizados pelo IBGE.
+do mercado de trabalho no município. Para a realização dos gráficos, foi utilizado [os microdados da PNAD COVID](https://www.ibge.gov.br/estatisticas/investigacoes-experimentais/estatisticas-experimentais/27946-divulgacao-semanal-pnadcovid1?t=microdados&utm_source=covid19&utm_medium=hotsite&utm_campaign=covid_19), disponibilizados pelo IBGE.
 
 Exemplos:
 
